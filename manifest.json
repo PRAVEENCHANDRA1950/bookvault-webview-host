@@ -1,6 +1,6 @@
 {
-    "name": "bookvault_webview",
-    "short_name": "bookvault_webview",
+    "name": "bookvault",
+    "short_name": "bookvault",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
